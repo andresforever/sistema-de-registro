@@ -7,3 +7,5 @@
 
 
 ```npm react```
+
+sistema de registro 2
